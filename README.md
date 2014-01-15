@@ -1,4 +1,4 @@
 cordova-demo
 =============
 
-repo for cordova demo mobile web app
+Repo for Phonegap/Cordova web app demo
